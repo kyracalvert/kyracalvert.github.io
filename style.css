@@ -11,7 +11,7 @@ h1 {
 
 h2 {
 	font-size: 32px;
-	font-family: Palatino, 'Palatino Linotype', serif;
+	
 }
 
 
@@ -23,13 +23,13 @@ h2 {
 
 p { 
 	font-size: 16px;
-	font-family: Palatino, 'Palatino Linotype', serif;
+	
 
 }
 
 li {
 	font-size: 16px;
-	font-family: Palatino, 'Palatino Linotype', serif;
+	
 }
 
  img {
@@ -43,18 +43,16 @@ li {
 }
 #headline {color: #ffffff;
 	font-size: 60px;
-	font-family: 'Georgia', Helvetica , serif;
+	
 }
 
 }
 #address {color: #ffffff;
 	font-size: 40px;
-	font-family: 'Georgia', Helvetica , serif;
+	
 }
 
 #facilities 
-}
-	color: #cc5200;
-
-	
+{
+	color: #cc5200;	
 }
