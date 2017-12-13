@@ -29,6 +29,9 @@ li {
 	font-size: 16px;
 }
 
+ img {
+	 float: right; 
+} 
 
 .hero a {
 	color: #00FFAA;
