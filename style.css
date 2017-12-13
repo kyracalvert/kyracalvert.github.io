@@ -21,13 +21,14 @@ h4 {
 
 
 .hero {
-	padding: 250px 0;
+	padding: 250px ;
 	margin: 30px;
 }
 
 
 p { 
 	font-size: 16px;
+	margin: 0;
 	
 
 }
