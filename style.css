@@ -11,6 +11,7 @@ h1 {
 
 h2 {
 	font-size: 32px;
+	font-family: Palatino, 'Palatino Linotype', serif;
 }
 
 
@@ -22,11 +23,13 @@ h2 {
 
 p { 
 	font-size: 16px;
+	font-family: Palatino, 'Palatino Linotype', serif;
 
 }
 
 li {
 	font-size: 16px;
+	font-family: Palatino, 'Palatino Linotype', serif;
 }
 
  img {
@@ -40,11 +43,12 @@ li {
 }
 #headline {color: #ffffff;
 	font-size: 60px;
+	font-family: Palatino, 'Palatino Linotype', serif;
 }
 
 }
 #facilities {
 	color: #cc5200;
-	font-family: Palatino, 'Palatino Linotype', serif;
+
 	
 }
